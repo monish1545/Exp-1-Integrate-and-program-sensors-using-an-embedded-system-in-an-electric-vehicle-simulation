@@ -68,7 +68,7 @@ fprintf('Battery Temperature: %.2f°C\n', battery_temp(end));
 fprintf('Acceleration (X, Y, Z): %.2f, %.2f, %.2f m/s^2\n', accX(end), accY(end), accZ(end));
 
 ## OUTPUT
-<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/cec08229-1e75-4de8-9032-2396294dca50" />
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/c5f0edef-b33b-4163-81b2-f78ea391c9d0" />
 
 
 
